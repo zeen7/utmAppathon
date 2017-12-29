@@ -1,0 +1,85 @@
+
+<div class="landing">
+  <center><font face="Special Elite" size = "25" ><strong><h1>Homes for Our Homies</h1></strong></font></center>
+</div>
+<hr>
+<font face="Century Gothic">
+<div class="statement">
+  <h2>Youth Homelessness</h2>
+  <center>
+  <p>The troubles of homeless youth remains largely misunderstood. Homelessness doesn't just affect people living on the streets, it includes people of all backgrounds who have no place to call home. Homeless youth includes people may be couch-surfing with friends, staying in shelters, in squats or on the street in alleys, doorways or parks.</p></center>
+</div>
+  
+<center><table cellpadding ="50%" border="0">
+
+<tr>
+    <td style = background-image:url("https://user-images.githubusercontent.com/2658224/29760576-292e18d4-8b79-11e7-8da3-f80b34adf032.png")>
+  <div class="section">
+  <h2>Canadian Stats</h2>
+  
+<ul>
+    <li>40,000 young people who spend some time homeless</li>
+    <li>7,000 homeless youth on any given night</li>
+    <li>20% of homeless population between ages 13 and 24</li>
+    <li>40% of homeless youth younger than 16 when first experienced homelessness</li>
+    <li>86% of homeless youth had been homeless before</li>
+  <li>50% reported five or more episodes of homelessness</li></ul>
+        
+</div>
+    </td>
+    <td style = background-image:url("https://www-tc.pbs.org/independentlens/wp/wp-content/uploads/2015/08/anthony-bench-homestretch-large-573x304.jpg")>
+    </td>
+</tr>
+  <tr>
+    <td style=background-image:url("https://www.texasappleseed.org/sites/default/files/homeless%20youth%20for%20page%20medium.jpg") background-repeat:no-repeat background-size:"50%" width="50%">
+    </td>
+    <td style = background-image:url("https://user-images.githubusercontent.com/2658224/29760576-292e18d4-8b79-11e7-8da3-f80b34adf032.png")>
+      <div class="section">
+    <h2>Who are homeless youth?</h2>
+    <ul>
+     <li>80% reported leaving home because of family conflict</li>
+     <li>63% reported childhood trauma and abuse</li>
+     <li>60% reported some involvement with child welfare in the past</li>
+     <li>83% experienced bullying in school</li>
+     <li>50% reported being tested for a learning disability</li>
+    <li>53% drop-out rate</li>
+    </ul>
+    </div>
+    </td>
+  </tr>
+  <tr>
+    <td style = background-image:url("https://user-images.githubusercontent.com/2658224/29760576-292e18d4-8b79-11e7-8da3-f80b34adf032.png")>
+      <div class="section">
+  <h2>Life on the street</h2>
+  <h4>Dangerous path</h4>
+  <h4>Desperation and Loneliness</h4>
+  <h4>Violence</h4>
+</div>
+    </td>
+    <td style = background-image:url("http://www.irishexaminer.com/remote/media.central.ie/media/images/h/HomelessFeatureAug13pic1_large.jpg")>
+    </td>
+  </tr>
+  <tr>
+    <td style = background-image:url("http://static.torontopubliclibrary.ca/da/images/MC/pictures-r-3539.jpg")>
+    </td>
+    <td style = background-image:url("https://user-images.githubusercontent.com/2658224/29760576-292e18d4-8b79-11e7-8da3-f80b34adf032.png")>
+      <div class="section">
+  <h2>Our Values</h2>
+  <h4>OUR MISSION</h4>
+  <p>Is to serve the suffering children and youth on the street and to protect and safeguard all children and youth...with absolute respect and unconditional love.</p>
+  <h4>OUR VISION</h4>
+  <p>To lead change that challenges at-risk, homeless and trafficked youth to pursue a life of opportunity.</p>
+  <h4>OUR PRINCIPLES</h4>
+  <p>Youth come to us in crisis and we provide for their basic human needs ¨C food, clothing, a shower and medical attention ¨C immediately.</p>
+</div>
+    </td>
+  </tr>
+</table></center>
+
+
+<div class="statement">
+  <h2>Resources:</h2>
+
+</div>
+  
+</font>
